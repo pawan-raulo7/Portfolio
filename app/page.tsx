@@ -156,12 +156,7 @@ Turning data into intelligent systems by building and optimizing machine learnin
   </div>
   <span className="text-sm font-medium text-gray-700">PostgreSQL</span>
 </div>
-<div className="text-center group">
-  <div className="w-16 h-16 bg-white rounded-xl shadow-md flex items-center justify-center mx-auto mb-3 group-hover:shadow-lg transition-shadow">
-    <img src="/images/C+.png"  className="w-8 h-8" />
-  </div>
-  <span className="text-sm font-medium text-gray-700">C++</span>
-</div>
+
 <div className="text-center group">
   <div className="w-16 h-16 bg-white rounded-xl shadow-md flex items-center justify-center mx-auto mb-3 group-hover:shadow-lg transition-shadow">
     <img src="/images/git.png"  className="w-8 h-8" />
