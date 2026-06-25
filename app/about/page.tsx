@@ -88,9 +88,8 @@ I'm a machine learning engineer focused on building intelligent systems using da
           </h3>
 
           <p className="text-gray-600 leading-7">
-            Visited Microsoft's Hyderabad campus to experience its engineering
-            culture, modern workplace, and innovation-driven environment while
-            interacting with industry professionals.
+            Visited Microsoft's Hyderabad campus for co-pilont agent workshop conducted by Microsoft data forage community,
+            and interacting with industry professionals.
           </p>
         </div>
       </div>
